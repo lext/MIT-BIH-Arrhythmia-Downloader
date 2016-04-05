@@ -7,7 +7,7 @@
 # Center for Machine Vision and Signal Analysis
 # University of Oulu, Finland
 
-# This script is using WFDB software for conversion
+# This script uses WFDB software for conversion
 
 SRC_FLD="mit_arrythmia_dat"
 RES_FLD="mit_arrythmia"
